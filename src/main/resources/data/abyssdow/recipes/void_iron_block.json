@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "v": {
+      "item": "abyssdow:void_shard"
+    },
+    "#": {
+      "item": "minecraft:iron_block"
+    }
+  },
+  "pattern": [
+    "###",
+    "#v#",
+    "###"
+  ],
+  "result": {
+    "item": "abyssdow:void_iron_block"
+  },
+  "show_notification": false
+}

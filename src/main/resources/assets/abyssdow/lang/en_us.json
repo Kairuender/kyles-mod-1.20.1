@@ -1,0 +1,70 @@
+{
+  "item.abyssdow.void_shard": "Void Shard",
+  "item.abyssdow.pale_ingot": "Pale Ore",
+
+  "block.abyssdow.deepslate_pale_ore": "Deepslate Pale Ore",
+  "block.abyssdow.deepslate_void_ore": "Deepslate Void Ore",
+  "block.abyssdow.pale_block": "Block of Kings",
+  "block.abyssdow.void_block": "Block of Void",
+
+  "item.abyssdow.descending_dark": "Descending Dark",
+  "item.abyssdow.long_nail": "Long Nail",
+
+  "item.abyssdow.snap": "Snap",
+  "item.abyssdow.dummys": "Dummys",
+  "item.abyssdow.friends": "2 Friends",
+  "item.abyssdow.have_one": "Have One",
+  "item.abyssdow.hehims": "HeHims",
+  "item.abyssdow.wws": "W&W's",
+
+  "item.abyssdow.void_pickaxe": "Void Pickaxe",
+  "item.abyssdow.void_axe": "Void Axe",
+  "item.abyssdow.void_shovel": "Void Shovel",
+  "item.abyssdow.void_hoe": "Void Hoe",
+
+  "item.abyssdow.pure_nail": "Pure Nail",
+  "item.abyssdow.hornet_nail": "Hornet's Nail",
+  "item.abyssdow.void_upgrade_smithing_template": "Void Upgrade Smithing Template",
+
+  "item.abyssdow.hollow_mask": "Hollow Mask",
+  "item.abyssdow.void_chestplate": "Void Chestplate",
+  "item.abyssdow.void_leggings": "Void Leggings",
+  "item.abyssdow.void_boots": "Void Boots",
+
+  "block.abyssdow.shadow_log": "Shadow Log",
+  "block.abyssdow.shadow_wood": "Shadow Wood",
+  "block.abyssdow.stripped_shadow_log": "Stripped Shadow Log",
+  "block.abyssdow.stripped_shadow_wood": "Stripped Shadow Wood",
+  "block.abyssdow.shadow_leaves": "Shadow Leaves",
+  "block.abyssdow.shadow_planks": "Shadow Planks",
+
+  "block.abyssdow.shadow_stairs": "Shadow Stairs",
+  "block.abyssdow.shadow_slab": "Shadow Slab",
+
+  "block.abyssdow.shadow_button": "Shadow Button",
+  "block.abyssdow.shadow_pressure_plate": "Shadow Pressure Plate",
+
+  "block.abyssdow.shadow_fence": "Shadow Fence",
+  "block.abyssdow.shadow_fence_gate": "Shadow Fence Gate",
+
+  "block.abyssdow.shadow_door": "Shadow Door",
+  "block.abyssdow.shadow_trapdoor": "Shadow Trapdoor",
+
+  "block.abyssdow.shadow_standing_sign": "Shadow Sign",
+  "block.abyssdow.shadow_wall_sign": "Shadow Wall Sign",
+
+  "block.abyssdow.shadow_hanging_sign": "Shadow Hanging Sign",
+  "block.abyssdow.shadow_wall_hanging_sign": "Shadow Wall Hanging Sign",
+
+  "item.abyssdow.shadow_boat": "Shadow Boat",
+  "item.abyssdow.shadow_chest_boat": "Shadow Chest Boat",
+
+  "block.abyssdow.shadow_sapling": "Shadow Sapling",
+
+  "block.abyssdow.void_iron_block": "Void Iron Block",
+  "item.abyssdow.void_and_pale": "Void and Pale",
+
+
+  "tooltip.abyssdow.descending_dark.tooltip": "Sends mobs flying",
+  "itemgroup.void": "Void"
+}

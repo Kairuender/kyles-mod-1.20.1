@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "abyssdow:block/stripped_shadow_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "abyssdow:block/stripped_shadow_wood"
+    },
+    "axis=z": {
+      "model": "abyssdow:block/stripped_shadow_wood",
+      "x": 90
+    }
+  }
+}

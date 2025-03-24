@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "abyssdow:void_shard"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "##",
+    "#s",
+    " s"
+  ],
+  "result": {
+    "item": "abyssdow:void_axe"
+  },
+  "show_notification": false
+}

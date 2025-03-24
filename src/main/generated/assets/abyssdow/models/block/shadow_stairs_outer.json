@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "abyssdow:block/shadow_planks",
+    "side": "abyssdow:block/shadow_planks",
+    "top": "abyssdow:block/shadow_planks"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "abyssdow:deepslate_void_ore",
+    "abyssdow:void_block",
+    "abyssdow:deepslate_pale_ore",
+    "abyssdow:pale_block"
+  ]
+}

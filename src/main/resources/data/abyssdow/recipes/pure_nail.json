@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "abyssdow:pale_ore"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+
+  },
+  "pattern": [
+    "  #",
+    "## ",
+    "s# "
+  ],
+  "result": {
+    "item": "abyssdow:pure_nail"
+  },
+  "show_notification": false
+}

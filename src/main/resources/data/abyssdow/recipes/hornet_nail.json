@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "abyssdow:long_nail"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+
+  },
+  "pattern": [
+    "  #",
+    " # ",
+    "s  "
+  ],
+  "result": {
+    "item": "abyssdow:hornet_nail"
+  },
+  "show_notification": false
+}

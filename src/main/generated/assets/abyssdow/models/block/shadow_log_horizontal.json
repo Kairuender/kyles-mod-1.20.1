@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "abyssdow:block/shadow_log_top",
+    "side": "abyssdow:block/shadow_log"
+  }
+}

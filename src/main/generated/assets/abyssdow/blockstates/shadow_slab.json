@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "abyssdow:block/shadow_slab"
+    },
+    "type=double": {
+      "model": "abyssdow:block/shadow_planks"
+    },
+    "type=top": {
+      "model": "abyssdow:block/shadow_slab_top"
+    }
+  }
+}
