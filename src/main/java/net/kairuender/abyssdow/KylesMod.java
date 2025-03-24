@@ -9,12 +9,14 @@ import net.kairuender.abyssdow.effect.FallImmunityEffect;
 import net.kairuender.abyssdow.entity.ModBoats;
 import net.kairuender.abyssdow.item.ModItemGroups;
 import net.kairuender.abyssdow.item.ModItems;
+import net.kairuender.abyssdow.item.custom.SpoonItem;
 import net.kairuender.abyssdow.util.ModCustomTrades;
 import net.kairuender.abyssdow.util.ModLootTableModifiers;
 import net.kairuender.abyssdow.world.gen.ModWorldGeneration;
 import net.minecraft.entity.damage.DamageTypes;
 import net.minecraft.entity.effect.StatusEffect;
 import net.minecraft.entity.player.PlayerEntity;
+import net.minecraft.item.Item;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
@@ -25,7 +27,8 @@ public class KylesMod implements ModInitializer {
 	public static final String MOD_ID = "abyssdow";
 	public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 	public static final StatusEffect FALL_IMMUNITY = new FallImmunityEffect();
-
+	public static final Item Silver_Spoon = new SpoonItem(new Item.Settings());
+	public static final Item Gold_Spoon = new SpoonItem(new Item.Settings());
 
 	@Override
 	public void onInitialize() {
