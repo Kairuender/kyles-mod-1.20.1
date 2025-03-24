@@ -9,6 +9,7 @@ import net.kairuender.abyssdow.effect.FallImmunityEffect;
 import net.kairuender.abyssdow.entity.ModBoats;
 import net.kairuender.abyssdow.item.ModItemGroups;
 import net.kairuender.abyssdow.item.ModItems;
+import net.kairuender.abyssdow.item.custom.BetterSpoonItem;
 import net.kairuender.abyssdow.item.custom.SpoonItem;
 import net.kairuender.abyssdow.util.ModCustomTrades;
 import net.kairuender.abyssdow.util.ModLootTableModifiers;
@@ -27,8 +28,8 @@ public class KylesMod implements ModInitializer {
 	public static final String MOD_ID = "abyssdow";
 	public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 	public static final StatusEffect FALL_IMMUNITY = new FallImmunityEffect();
-	public static final Item Silver_Spoon = new SpoonItem(new Item.Settings());
-	public static final Item Gold_Spoon = new SpoonItem(new Item.Settings());
+	public static final Item Silver_Spoon = new SpoonItem(new Item.Settings().maxCount(1).maxDamage(1));
+	public static final Item Gold_Spoon = new BetterSpoonItem(new Item.Settings().maxCount(1).maxDamage(1));
 
 	@Override
 	public void onInitialize() {
@@ -60,6 +61,9 @@ public class KylesMod implements ModInitializer {
 
 		ModBoats.registerBoats();
 		ModWorldGeneration.generateModWorldGen();
+
+		Registry.register(Registries.ITEM, new Identifier("abyssdow", "silver_spoon"), Silver_Spoon);
+		Registry.register(Registries.ITEM, new Identifier("abyssdow", "gold_spoon"), Gold_Spoon);
 
 		}
 	}

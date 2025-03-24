@@ -76,6 +76,9 @@ public class ModItemGroups {
 
                         entries.add(ModItems.Pure_Nail);
                         entries.add(ModItems.Hornet_Nail);
+
+                        entries.add(KylesMod.Silver_Spoon);
+                        entries.add(KylesMod.Gold_Spoon);
                     }).build());
 
     public static void registerItemGroups() {

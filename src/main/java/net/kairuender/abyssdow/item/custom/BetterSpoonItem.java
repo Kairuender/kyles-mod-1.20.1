@@ -18,7 +18,7 @@ public class BetterSpoonItem extends Item {
         Vec3d knockbackDirection = target.getPos().subtract(attacker.getPos()).normalize();
 
         // Apply 10x knockback
-        double knockbackStrength = 1.0 * 20; // Default knockback is roughly 0.4, so we multiply by 10
+        double knockbackStrength = 1.0 * 10;
         target.addVelocity(
                 knockbackDirection.x * knockbackStrength,
                 0.1 * knockbackStrength, // Vertical knockback
