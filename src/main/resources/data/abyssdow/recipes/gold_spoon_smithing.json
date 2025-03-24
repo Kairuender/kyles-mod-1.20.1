@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:gold_block"
+  },
+  "base": {
+    "item": "abyssdow:silver_spoon"
+  },
+  "result": {
+    "item": "abyssdow:gold_spoon"
+  },
+  "template": {
+    "item": "abyssdow:spoon_upgrade_smithing_template"
+  }
+}

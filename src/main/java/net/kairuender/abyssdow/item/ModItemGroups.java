@@ -63,6 +63,7 @@ public class ModItemGroups {
                         entries.add(ModItems.Descending_Dark);
                         entries.add(ModItems.Long_Nail);
                         entries.add(ModItems.Void_Upgrade_Smithing_Template);
+                        entries.add(ModItems.Spoon_Upgrade_Smithing_Template);
 
                         entries.add(ModItems.Hollow_Mask);
                         entries.add(ModItems.Void_ChestPlate);

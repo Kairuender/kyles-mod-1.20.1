@@ -1,9 +1,9 @@
-// 1.20.1	2025-03-20T23:41:59.9604127	Kyle's Mod/Tags for minecraft:block
+// 1.20.1	2025-03-24T00:55:05.4485664	Kyle's Mod/Tags for minecraft:block
 69fa4b5f50710d8131cb52e96d2dd02adab9cdd6 data\minecraft\tags\blocks\logs_that_burn.json
-718c8df89fdad59cadb18fe8347902ce216cac0d data\minecraft\tags\blocks\mineable\pickaxe.json
-31f2452b4ba37dcb6e515aa604a2dd9ccae166aa data\minecraft\tags\blocks\fences.json
+f33ebe8ff2314c4dbdf68f5e65dfc04b2033381b data\minecraft\tags\blocks\fence_gates.json
+23b8c76e4274c56838b5c7a77d9ac19b5204f7ec data\minecraft\tags\blocks\mineable\axe.json
 417a809c501221c471db409e3a0eba4883c62571 data\fabric\tags\blocks\needs_tool_level_4.json
 fbc947193595ede751777214b44ff4b22d101122 data\minecraft\tags\blocks\needs_iron_tool.json
-23b8c76e4274c56838b5c7a77d9ac19b5204f7ec data\minecraft\tags\blocks\mineable\axe.json
-f33ebe8ff2314c4dbdf68f5e65dfc04b2033381b data\minecraft\tags\blocks\fence_gates.json
+718c8df89fdad59cadb18fe8347902ce216cac0d data\minecraft\tags\blocks\mineable\pickaxe.json
+31f2452b4ba37dcb6e515aa604a2dd9ccae166aa data\minecraft\tags\blocks\fences.json
 df7d214d6c952019d55c72f93e35595789b0e3bf data\minecraft\tags\blocks\logs.json

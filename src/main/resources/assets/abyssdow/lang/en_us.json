@@ -25,6 +25,7 @@
   "item.abyssdow.pure_nail": "Pure Nail",
   "item.abyssdow.hornet_nail": "Hornet's Nail",
   "item.abyssdow.void_upgrade_smithing_template": "Void Upgrade Smithing Template",
+  "item.abyssdow.spoon_upgrade_smithing_template": "Spoon Upgrade Smithing Template",
 
   "item.abyssdow.hollow_mask": "Hollow Mask",
   "item.abyssdow.void_chestplate": "Void Chestplate",
@@ -63,6 +64,9 @@
 
   "block.abyssdow.void_iron_block": "Void Iron Block",
   "item.abyssdow.void_and_pale": "Void and Pale",
+
+  "item.abyssdow.silver_spoon": "Comically Large Spoon",
+  "item.abyssdow.gold_spoon": "Gilded Comically Large Spoon",
 
 
   "tooltip.abyssdow.descending_dark.tooltip": "Sends mobs flying",

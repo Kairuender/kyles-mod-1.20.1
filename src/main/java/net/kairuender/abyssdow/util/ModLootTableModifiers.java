@@ -25,6 +25,15 @@ public class ModLootTableModifiers {
 
                 builder.pool(poolBuilder.build());
             }
+            if (Ancient_city_ID.equals(identifier)){
+                LootPool.Builder poolBuilder = LootPool.builder()
+                        .rolls(ConstantLootNumberProvider.create(1))
+                        .conditionally(RandomChanceLootCondition.builder(.1f))
+                        .with(ItemEntry.builder(ModItems.Spoon_Upgrade_Smithing_Template))
+                        .apply(SetCountLootFunction.builder(UniformLootNumberProvider.create(1.0f,2.0f)).build());
+
+                builder.pool(poolBuilder.build());
+            }
 
 
         });

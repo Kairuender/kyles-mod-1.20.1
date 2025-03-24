@@ -71,6 +71,7 @@ public class ModModelProvider extends FabricModelProvider {
         itemModelGenerator.register(ModItems.Pure_Nail, Models.HANDHELD);
         itemModelGenerator.register(( ModItems.Hornet_Nail), Models.HANDHELD);
         itemModelGenerator.register(( ModItems.Void_Upgrade_Smithing_Template), Models.HANDHELD);
+        itemModelGenerator.register(( ModItems.Spoon_Upgrade_Smithing_Template), Models.HANDHELD);
 
     }
 }

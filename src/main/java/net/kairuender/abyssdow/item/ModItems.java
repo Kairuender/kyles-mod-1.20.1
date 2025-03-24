@@ -62,6 +62,8 @@ public class ModItems {
 
     public static final Item Void_Upgrade_Smithing_Template =
             registerItem("void_upgrade_smithing_template", new Item(new FabricItemSettings()));
+    public static final Item Spoon_Upgrade_Smithing_Template =
+            registerItem("spoon_upgrade_smithing_template", new Item(new FabricItemSettings()));
 
     public static final Item Shadow_Sign =
             registerItem("shadow_sign", new SignItem(new FabricItemSettings().maxCount(16), ModBlocks.Standing_Shadow_Sign, ModBlocks.Wall_Shadow_Sign));
